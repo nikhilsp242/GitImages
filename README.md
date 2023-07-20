@@ -1,1 +1,1 @@
-# SamsungHealth
+# Repo to store images
